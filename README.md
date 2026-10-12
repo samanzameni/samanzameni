@@ -23,4 +23,4 @@ Code in these repositories is a preliminary version; the final code for each pap
 
 ## Contact
 
-[Website](https://samanzameni.netlify.app) · [ORCID](https://orcid.org/0009-0006-8774-6391) · [LinkedIn](https://www.linkedin.com/in/saman-zameni-a93095131/) · [Email](mailto:saman.zameni@gmail.com)
+[Website](https://samanzameni.netlify.app) · [ORCID](https://orcid.org/0009-0006-8774-6391) · [LinkedIn](https://www.linkedin.com/in/saman-zameni/) · [Email](mailto:saman.zameni@gmail.com)
