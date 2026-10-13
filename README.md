@@ -4,7 +4,7 @@ I work on **location privacy in wireless systems**, specifically on what geoloca
 
 - 🎓 M.Sc. in Computer Engineering (Software), University of Tehran · B.Sc. in Mathematics and Applications, Amirkabir University of Technology
 - 💼 Software Test Engineer (core banking systems); previously front-end developer (Angular)
-- 🔭 Seeking a fully funded **PhD position** in Computer Science or Information Systems
+
 
 ## Research
 
