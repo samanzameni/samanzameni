@@ -8,14 +8,14 @@ I work on **location privacy in wireless systems**, specifically on what geoloca
 
 ## Research
 
-| Paper | Status | Code (preliminary) |
+| Paper | Status | Code |
 |---|---|---|
-| **Inference-Based Localization Attacks on Primary Users in Geolocation Database-Assisted Spectrum Sharing.** Particle-filter and machine-learning attacks that infer a primary user's location from maximum-transmit-power (MTP) responses. | Published, *Ad Hoc Networks* (2027) · [DOI](https://doi.org/10.1016/j.adhoc.2026.104465) | [Master-Thesis](https://github.com/samanzameni/Master-Thesis) |
+| **Inference-Based Localization Attacks on Primary Users in Geolocation Database-Assisted Spectrum Sharing.** Particle-filter and machine-learning attacks that infer a primary user's location from maximum-transmit-power (MTP) responses. | Published, *Ad Hoc Networks* (2027) · [DOI](https://doi.org/10.1016/j.adhoc.2026.104465) | [Zenodo](https://doi.org/10.5281/zenodo.23060444) (final) · [Master-Thesis](https://github.com/samanzameni/Master-Thesis) |
 | **Response-Level Differential Privacy for Geo-Location Databases: Power Cost, Coalition Limits and Comparison with Input Perturbation.** DP-MTP, a response-level DP mechanism with a near-optimal power cost, coalition bounds and a per-cell privacy ledger, compared with registration-level input perturbation. | Submitted, *Ad Hoc Networks* | [Second-Paper](https://github.com/samanzameni/Second-Paper) |
 
 **Research interests:** data privacy and differential privacy · wireless networks and dynamic spectrum access · machine learning · big data analytics
 
-Code in these repositories is a preliminary version; the final code for each paper will be released on publication.
+The GitHub repositories hold preliminary code; final code for each paper is archived on publication (Zenodo for the published paper).
 
 ## Tools
 
