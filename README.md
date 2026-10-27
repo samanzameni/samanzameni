@@ -10,8 +10,8 @@ I work on **location privacy in wireless systems**, specifically on what geoloca
 
 | Paper | Status | Code (preliminary) |
 |---|---|---|
-| **Inference-Based Localization Attacks on Primary Users in Geolocation Database-Assisted Spectrum Sharing.** Particle-filter and machine-learning attacks that infer a primary user's location from maximum-transmit-power (MTP) responses. | Under review, *Ad Hoc Networks* | [Master-Thesis](https://github.com/samanzameni/Master-Thesis) |
-| **Differential Privacy for Geo-Location Database Responses: Optimal Power Cost, Coalition Limits and Region Accounting.** DP-MTP, a response-level DP mechanism with a near-optimal power cost, coalition bounds and a per-cell privacy ledger. | In preparation | [Second-Paper](https://github.com/samanzameni/Second-Paper) |
+| **Inference-Based Localization Attacks on Primary Users in Geolocation Database-Assisted Spectrum Sharing.** Particle-filter and machine-learning attacks that infer a primary user's location from maximum-transmit-power (MTP) responses. | Published, *Ad Hoc Networks* (2027) · [DOI](https://doi.org/10.1016/j.adhoc.2026.104465) | [Master-Thesis](https://github.com/samanzameni/Master-Thesis) |
+| **Response-Level Differential Privacy for Geo-Location Databases: Power Cost, Coalition Limits and Comparison with Input Perturbation.** DP-MTP, a response-level DP mechanism with a near-optimal power cost, coalition bounds and a per-cell privacy ledger, compared with registration-level input perturbation. | Submitted, *Ad Hoc Networks* | [Second-Paper](https://github.com/samanzameni/Second-Paper) |
 
 **Research interests:** data privacy and differential privacy · wireless networks and dynamic spectrum access · machine learning · big data analytics
 
