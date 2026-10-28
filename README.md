@@ -23,4 +23,4 @@ The GitHub repositories hold preliminary code; final code for each paper is arch
 
 ## Contact
 
-[Website](https://samanzameni.netlify.app) · [ORCID](https://orcid.org/0009-0006-8774-6391) · [LinkedIn](https://www.linkedin.com/in/saman-zameni/) · [Email](mailto:saman.zameni@gmail.com)
+[Website](https://samanzameni.netlify.app) · [ORCID](https://orcid.org/0009-0006-8774-6391) · [Google Scholar](https://scholar.google.com/citations?user=F9tKc8oAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/saman-zameni/) · [Email](mailto:saman.zameni@gmail.com)
